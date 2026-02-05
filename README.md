@@ -89,9 +89,4 @@ These results demonstrate strong discriminatory power while prioritizing recall 
 
 ---
 
-## 📄 Notebook
-All experiments and results are available in:
-`SLM-Insurance.ipynb`
-
----
 
